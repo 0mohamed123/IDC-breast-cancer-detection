@@ -1,0 +1,19 @@
+# DL Libraries
+torch==2.1.0          
+torchvision==0.16.1   
+tensorflow==2.15.0    
+keras==2.15.0         
+
+# Image Proccessing Libraries
+opencv-python==4.8.1
+Pillow==10.1.0
+
+# Data Analysis Libraries
+numpy==1.27.0
+pandas==2.1.0
+scikit-learn==1.3.2
+
+# Additional Libraries
+matplotlib==3.8.0      
+seaborn==0.12.2        
+tqdm==4.66.1           
